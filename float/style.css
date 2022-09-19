@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+    border: solid 1px white;
+}
+header {
+    background-color: rgb(161, 82, 82);
+    height: 20%;
+}
+
+nav {
+    background-color: rgb(161, 82, 82);
+    height: 10%;
+}
+
+#left-aside {
+    background-color: rgb(161, 82, 82);
+    float: left;
+    height: 60%;
+    width: 20%;
+}
+main {
+    background-color: rgb(161, 82, 82);
+    float: left;
+    height: 60%;
+    width: 60%;
+}
+
+#right-aside {
+    background-color: rgb(161, 82, 82);
+    float: right;
+    height: 60%;
+    width: 20%;
+}
+footer {
+    height: 10%;
+    background-color: rgb(161, 82, 82);
+    clear: both;
+}
